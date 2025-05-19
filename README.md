@@ -11,5 +11,6 @@
 # Para poder predecir en tiempo real: python app/main.py. Esto abrirá la cámara, detectará tu gesto y mostrará el resultado en la interfaz.
 
 
+# Video de explicación
 
-
+https://youtu.be/qeoZweNls9c
